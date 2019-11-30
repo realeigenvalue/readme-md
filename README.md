@@ -2,6 +2,8 @@
 
 Project description.
 
+![Application Image](https://vignette.wikia.nocookie.net/deathnote/images/6/6c/L_Symbol.jpeg/revision/latest?cb=20081006192949)
+
 ## Building
 
 Building for each platform.
