@@ -2,6 +2,17 @@
 
 Project description.
 
+## Building
+
+Building for each platform.
+
+```bash
+cd package
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
 ## Installation
 
 Installation for each platform.
